@@ -36,7 +36,7 @@ Checklist para acompanhar a conclusão de cada nível:
 - [X] **Nível 1 — Fundamentos da Programação Web e Setup**  
   Hardware, software, sistemas operacionais, internet, front-end, back-end e configuração do ambiente de desenvolvimento.
 
-- [ ] **Nível 2 — Git e GitHub**  
+- [X] **Nível 2 — Git e GitHub**  
   Versionamento de código, configuração do Git, repositórios, commits, histórico de versões e colaboração pelo GitHub.
 
 - [ ] **Nível 3 — Fundamentos do HTML e do CSS**  
